@@ -1,6 +1,6 @@
 # Workspace Manager
 
-A very simple project switcher for VSCode.
+A very simple VSCode extension that allows quick add/removal of folders from multiple parent directories to a workspace.
 
 ## Extension Commands
 
