@@ -1,4 +1,4 @@
-# Project Switcher
+# Workspace Manager
 
 A very simple project switcher for VSCode.
 
