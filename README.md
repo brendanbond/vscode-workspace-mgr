@@ -4,7 +4,7 @@ A very simple VSCode extension that allows quick add/removal of folders from mul
 
 ## Extension Commands
 
-This extension contributes the following command:
+This extension contributes the following commands:
 
 - `workspace-mgr.add`
 - `workspace-mgr.remove`
